@@ -1,7 +1,6 @@
 h1 {
 	color: rgb(236,236,236);
-font-size: 200%;
-font-weight: 400;
+font-weight: bold;
 font-family: "SF UI Display", ".PingFang SC", "PingFang SC", "Neue Haas Grotesk Text Pro", "Arial Nova", "Segoe UI", "Microsoft YaHei", "Microsoft JhengHei", "Helvetica Neue", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "Helvetica", "Hiragino Sans GB", sans-serif;
 margin-top: 2em;
 margin-bottom: 2em;
