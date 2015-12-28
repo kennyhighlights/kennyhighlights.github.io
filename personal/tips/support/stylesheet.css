@@ -1,23 +1,25 @@
 h1 {
 
-
+font-size: 200%;
 	font-family: "SF UI Display", ".PingFang SC", "PingFang SC", "Neue Haas Grotesk Text Pro", "Arial Nova", "Segoe UI", "Microsoft YaHei", "Microsoft JhengHei", "Helvetica Neue", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "Helvetica", "Hiragino Sans GB", sans-serif;
 	margin-bottom: 2em;
 }
 
 body {
-	    padding: 1em 4em 2em 4em;
+	    padding: 1em 5em 2em 5em;
 margin-top: 0em;
 margin-bottom: 2em;
 }
 
 p {
 		font-family: "SF UI Display", ".PingFang SC", "PingFang SC", "Neue Haas Grotesk Text Pro", "Arial Nova", "Segoe UI", "Microsoft YaHei", "Microsoft JhengHei", "Helvetica Neue", "Source Han Sans SC", "Noto Sans CJK SC", "Source Han Sans CN", "Noto Sans SC", "Source Han Sans TC", "Noto Sans CJK TC", "Helvetica", "Hiragino Sans GB", sans-serif;
-	    letter-spacing: 0.5px;
+	    letter-spacing: 0.3px;
 	        line-height: 200%;
 
 }
 
 .signature {
+	letter-spacing: 0px;
+	line-height: 170%;
 	text-align: right;
 }
