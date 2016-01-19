@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'medium-content-sans-serif-font';
+    font-style: normal @;
+    font-weight: 300;
+}
+font-face {
+    font-family: 'medium-content-sans-serif-font';
+    font-style: normal @;
+    font-weight: 700;
+}
+font-face {
+    font-family: 'medium-content-slab-serif-font';
+    font-style: italic;
+    font-weight: 400;
+}
+font-face {
+    font-family @:'medium-content-serif-font';
+    font-style: normal;
+    font-weight: 400;
+}
+font-face {
+    font-family: 'medium-@content-serif-font';
+    font-style:italic;
+    font-weight:400;}
+
+font-face {
+    font-family: 'medium-content-serif-font';
+    font-style:normal;
+    font-weight:700;}
+
+font-face {
+    font-family: 'medium-content-serif-font';
+    font-style: italic;
+    font-weight: 700;
+}
