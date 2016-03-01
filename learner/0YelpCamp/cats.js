@@ -1,3 +1,5 @@
+// Mongoose Demo Document
+
 var mongoose = require("mongoose");
 
 mongoose.connect("mongodb://localhost/cat_app");
@@ -25,7 +27,7 @@ var Cat = mongoose.model("Cat", catSchema);
 		// }
 		// });
 
-		Cat.create({
+	Cat.create({
 			name: "Snow White",
 			age: 15,
 			temperament: "Bland"}, function(err, cat){
@@ -41,6 +43,7 @@ var Cat = mongoose.model("Cat", catSchema);
 		if(err){
 			console.log(err);
 		} else {
+			console.log("ALL cats");
 			console.log(cats);
 		}
 		})
