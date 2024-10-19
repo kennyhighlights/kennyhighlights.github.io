@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript">
+        function redirect() {
+            var path = window.location.pathname;
+            var queryParams = window.location.search;
+            var newDomain = "https://luming.me";
+            var newUrl = newDomain + path + queryParams;
+            window.location.replace(newUrl);
+        }
+        window.onload = redirect;
+    </script>
+</head>
+<body>
+</body>
+</html>
